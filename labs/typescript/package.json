@@ -1,0 +1,1 @@
+{"name":"ccdv-f-labs","private":true,"type":"module","scripts":{"start":"tsx 01_messages_api.ts"},"dependencies":{"@anthropic-ai/sdk":"^0.60.0"},"devDependencies":{"tsx":"^4.0.0","typescript":"^5.0.0"}}
